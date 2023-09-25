@@ -1,5 +1,5 @@
 
 we are learning git !
-git is very powerful
+git is very powerful scm
 developer 1!!!!!!!!
 dveloper name: pranjal
