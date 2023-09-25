@@ -3,3 +3,4 @@ we are learning git !
 git is very powerful scm and very powerful!!
 developer 1!!!!!!!!
 dveloper name: pranjal
+Git was developed by linus torvalds
